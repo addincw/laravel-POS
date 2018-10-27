@@ -1,6 +1,6 @@
-<p align="center"><h3><b>Laravel-POS</b></h3></p>
+<h3 align="center"><b>Laravel-POS</b></h3>
 <p align="center">Powered By</p>
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"> - POS</p>
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 
 ## About Laravel-POS
