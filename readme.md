@@ -14,3 +14,8 @@ Laravel-POS is Point Of Sales Web Application based on laravel framework. this i
 Laravel-POS is open-source, feel free to contribute.
 
 ## Laravel-POS version v 1.0
+this link demo : https://startech-pos.000webhostapp.com/login
+
+use this account to login
+username : admin
+password : admin
