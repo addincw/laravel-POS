@@ -12,3 +12,5 @@ Laravel-POS is Point Of Sales Web Application based on laravel framework. this i
 - Operational Cost [pengeluaran].
 
 Laravel-POS is open-source, feel free to contribute.
+
+## Laravel-POS version v 1.0
